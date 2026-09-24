@@ -1,40 +1,39 @@
 Hey, I'm Samarth 👋
 
-🚀 Developer | 💻 Programmer | 🌱 Always Learning Sometrhing new
+💻 Developer | 🚀 Builder | 🌱 Always Learning
 
-Welcome to my GitHub profile!
+I enjoy building things, experimenting with new technologies, and improving my coding skills.
 
-I'm currently a student who learning, building projects, and exploring the world of software development and aiml
+🧑‍💻 About Me
 
- What I'm Learning
- 
- Programming,
- Web Development,
- Python,
- Java,
- Git & GitHub,Some new skills with handling the ai
+🌱 Currently learning programming & web development
 
-🚀 What I'm Working On
+🚀 Building projects and exploring new technologies
 
-Building own  projects
+💡 Interested in software development & technology
 
-Learning new technologies
+🎯 Goal: Keep learning and build useful things
 
-Improving my coding skills
+🛠️ Tech Stack
 
-📌 My Projects
+Languages
 
-Train Ticket booking platform
+Python JavaScript HTML CSS Java Nodejs
 
-Fake news detector application
+Tools
 
-Fake loan apps platform...
+Git GitHub VS Code
 
-More projects coming soon... 🚀
+🚀 Featured Projects
+
+More projects coming soon... 👀
 
 📫 Connect With Me
-Github: https://github.com/samarthmalagali84-arch
 
-Linkedin: https://www.linkedin.com/in/samarth-malagali-505aa734a?utm_source=share_via&utm_content=profile&utm_medium=member_android
+💼 LinkedIn : https://www.linkedin.com/in/samarth-malagali-505aa734a?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
- Thank You  for visiting my profile!
+🐙 GitHub : https://github.com/samarthmalagali84-arch/Samarth-Malagali/edit/main/README.md
+
+⭐ Thanks for visiting my profile!
+
+Keep learning. Keep building. Keep growing. 🚀
